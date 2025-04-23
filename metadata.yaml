@@ -1,0 +1,40 @@
+_repo: An-outlaw-s-diary-the-Commune_75812
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tormay, Cécile
+    aliases:
+    - Tormay, Cecile
+    - Tormay, Cecil
+    birthdate: 1876
+    deathdate: 1937
+    gutenberg_agent_id: '53758'
+    url: http://www.gutenberg.org/2009/agents/53758
+    wikipedia:
+    - https://en.wikipedia.org/wiki/C%C3%A9cile_Tormay
+    - https://hu.wikipedia.org/wiki/Tormay_C%C3%A9cile
+description: ''
+gutenberg_issued: '2025-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75812'
+language: en
+pgterms:marc904: https://archive.org/details/outlawsdiary02tormuoft/page/n7
+pgterms:marc905: 20190110061901tormay
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aLondon :$bPhilip Allan & Co., $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tormay, Cécile, 1876-1937 -- Diaries'
+- !lcsh 'Communism -- Hungary'
+- !lcsh 'Hungary -- History -- Revolution, 1918-1919 -- Personal narratives'
+- !lcc 'DB'
+- GITenberg
+title: 'An outlaw''s diary: the Commune'
+url: http://www.gutenberg.org/ebooks/75812
