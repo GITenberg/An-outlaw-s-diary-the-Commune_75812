@@ -1,5 +1,8 @@
 _repo: An-outlaw-s-diary-the-Commune_75812
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75812-h/images/cover.jpg
 creator:
   author:
     agent_name: Tormay, Cécile
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/C%C3%A9cile_Tormay
     - https://hu.wikipedia.org/wiki/Tormay_C%C3%A9cile
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75812#An-outlaw-s-diary-the-Commune
 gutenberg_issued: '2025-04-07'
 gutenberg_type: Text
 identifiers:
